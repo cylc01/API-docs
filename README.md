@@ -8,6 +8,7 @@
 
 * List all AllSaints products
 * Can be filtered by category name via `category` parameter
+* Can be filtered by barcode number via `ean` parameter
 
 ##Category API
 ###http://api.allsaints.com/v1/category/
