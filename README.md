@@ -1,5 +1,7 @@
 #AllSaints API
 
+Please report any issues via the Github issue tracker
+
 * All API responses can be retrieved in `JSON` and `XML`, simply change your accept header to `application/json` or `application/xml`
 * All APIs are paged at 50 resources per page, select a page with the `page` parameter, or follow the links within the response.
 
