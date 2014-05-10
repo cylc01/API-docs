@@ -18,6 +18,6 @@
 ###http://api.allsaints.com/v1/store/
 
 * Lists all AllSaints retail locations
-* Can be filtered by country via `country` parameter
+
 
 
